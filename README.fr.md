@@ -35,7 +35,7 @@ Une application web simple qui permet de découvrir quel jour de la semaine corr
 
 Ajoute ici un aperçu si tu veux :
 
-```markdown
+
 ![Aperçu de Day of Week](./screenshot.png)
 
 

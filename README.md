@@ -35,7 +35,7 @@ A simple web application that tells you the day of the week for any date you sel
 
 You can add a preview image here:
 
-```markdown
+
 ![Day of Week Preview](./screenshot.png)
 
 🔗 Live Demo
