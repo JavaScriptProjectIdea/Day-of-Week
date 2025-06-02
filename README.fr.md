@@ -45,12 +45,10 @@ Ajoute ici un aperçu si tu veux :
 
 ## 📁 Structure du projet
 ```
-Word-Counter/
-├──JQuery
-    ├──jquery-3.7.1.min.js
+Day-of-Week/
 ├── index.html
-├── screenshot.png
 ├── script.js
+├── screenshot.png
 └── README.md
 ```
 ## 📄 Licence

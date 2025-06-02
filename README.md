@@ -39,18 +39,17 @@ You can add a preview image here:
 ![Day of Week Preview](./screenshot.png)
 
 🔗 Live Demo
-👉 👉 [Click here to try Day Of Week](https://abdelwaheb-net.github.io/Day-of-Week/)
+👉 [Click here to try Day Of Week](https://abdelwaheb-net.github.io/Day-of-Week/)
 
 ## 📁 Project Structure
 
 ```
-
 Day-of-Week/
 ├── index.html
 ├── script.js
 ├── screenshot.png
 └── README.md
-
+```
 ## 📄 License
 This project is open-source under the MIT license.
 
